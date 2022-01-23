@@ -17,6 +17,12 @@ This repo is a compilation of every active firmware project on the team.
 | Yamper           | Ring Encoder                | https://github.com/waterloop/Yamper-Firmware                 |
 | Relay Board      | Raspberry Pi and CAN Shield | https://github.com/waterloop/relay<br />https://github.com/waterloop/RoboteqCAN/tree/pythoncan |
 
+## Bootloader 
+
+| Name              | Description           | Repository                                     |
+| ----------------- | --------------------- | -----------------------------------------------|
+| canbus-bootloader | Device CAN bootloader | https://github.com/waterloop/canbus-bootloader |
+
 ## Libraries
 
 | Library  | Description | Repository                            |
