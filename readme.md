@@ -34,4 +34,6 @@ This repo is a compilation of every active firmware project on the team.
 | Test           | Description                      | Repository                                        |
 | -------------- | -------------------------------- | ------------------------------------------------- |
 | HW-in-the-loop | Scripts for HW-in-the-loop tests | https://github.com/waterloop/hw-in-the-loop-tests |
+| Can Device Simulator | Allows raspberry pi to mock can devices at a message level on the bus | https://github.com/waterloop/CAN-Device-Sim |
+
 
