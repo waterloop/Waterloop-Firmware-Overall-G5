@@ -25,9 +25,10 @@ This repo is a compilation of every active firmware project on the team.
 
 ## Libraries
 
-| Library  | Description | Repository                            |
-| -------- | ----------- | ------------------------------------- |
-| WLoopCAN | CAN Library | https://github.com/waterloop/WLoopCAN |
+| Library   | Description     | Repository                             |
+| --------  | -----------     | -------------------------------------  |
+| WLoopCAN  | CAN Library     | https://github.com/waterloop/WLoopCAN  |
+| WLoopUtil | Utility Library | https://github.com/waterloop/WLoopUtil |
 
 ## Tests
 
