@@ -30,11 +30,12 @@ This repo is a compilation of every active firmware project on the team.
 | WLoopCAN  | CAN Library     | https://github.com/waterloop/WLoopCAN  |
 | WLoopUtil | Utility Library | https://github.com/waterloop/WLoopUtil |
 
-## Tests
+## Tools
 
-| Test           | Description                      | Repository                                        |
+| Tool           | Description                      | Repository                                        |
 | -------------- | -------------------------------- | ------------------------------------------------- |
 | HW-in-the-loop | Scripts for HW-in-the-loop tests | https://github.com/waterloop/hw-in-the-loop-tests |
 | Can Device Simulator | Allows raspberry pi to mock can devices at a message level on the bus | https://github.com/waterloop/CAN-Device-Sim |
+| Firmware Docker | Docker container for developing firmware on | https://github.com/waterloop/firmware-docker |
 
 
