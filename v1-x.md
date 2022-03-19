@@ -13,5 +13,5 @@ Release 1.x was created for the Goose 5.5 pod Hardware in the Loop and Powered R
 | Elekid           | Will not be release         |                                                                 |
 | PIL              | 1.0                         | https://github.com/waterloop/PIL-Firmware/releases/tag/v1.0     |
 | Psyduck          | 1.0                         | https://github.com/waterloop/Psyduck-Firmware/releases/tag/v1.0 |
-| Torchic          | 1.0                         | https://github.com/waterloop/Torchic-Firmware/releases/tag/v1.0 |
+| Torchic          | 1.1                         | https://github.com/waterloop/Torchic-Firmware/releases/tag/v1.1 |
 | Yamper           | Unreleased                  |                                                                 |
