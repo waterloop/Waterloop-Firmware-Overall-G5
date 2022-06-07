@@ -16,7 +16,6 @@ This repo is a compilation of every active firmware project on the team.
 | Torchic          | Temperature Sensor          | https://github.com/waterloop/Torchic-Firmware                |
 | Yamper           | Ring Encoder                | https://github.com/waterloop/Yamper-Firmware                 |
 | Relay Board      | Raspberry Pi and CAN Shield | https://github.com/waterloop/relay<br />https://github.com/waterloop/RoboteqCAN/tree/pythoncan |
-| Stupid Slave     | Hacked together slave "board" | https://github.com/waterloop/CHC_Sucks | 
 
 ## Bootloader 
 
