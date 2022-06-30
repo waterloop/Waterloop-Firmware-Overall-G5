@@ -8,6 +8,7 @@ This repo is a compilation of every active firmware project on the team.
 
 | Name             | Description                 | Repository                                                   |
 | ---------------- | --------------------------- | ------------------------------------------------------------ |
+| G6 MCU Platform Board | General G6 System Wide Platform Board | https://github.com/waterloop/G6-MCU-Platform-Board |
 
 ## Libraries
 
