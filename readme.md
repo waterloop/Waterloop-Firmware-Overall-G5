@@ -4,11 +4,12 @@
 
 This repo is a compilation of every active firmware project on the team.
 
-## Boards
+## Platforms
 
 | Name             | Description                 | Repository                                                   |
 | ---------------- | --------------------------- | ------------------------------------------------------------ |
 | G6 MCU Platform Board | General G6 System Wide Platform Board | https://github.com/waterloop/G6-MCU-Platform-Board |
+| WLoopOS | Custom Linux image compiled with preemptive kernel, used on RPi | https://github.com/waterloop/WLoopOS |
 
 ## Libraries
 
