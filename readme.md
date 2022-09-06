@@ -4,6 +4,10 @@
 
 This repo is a compilation of every active firmware project on the team.
 
+## Boards
+| Board   | Description     | Repository                             |
+| ------  | -----------     | -------------------------------------  |
+
 ## Platforms
 
 | Name             | Description                 | Repository                                                   |
